@@ -1,0 +1,443 @@
+[
+  {
+    "name": "Google - Coursera",
+    "desc": "Google IT Support",
+    "image": "Coursera_01",
+    "category": "coursera",
+    "links": {
+      "view": "https://coursera.org/verify/professional-cert/66HX2T358RM6"
+    }
+  },
+  {
+    "name": "Google - Coursera",
+    "desc": "Google IT Automation with Python",
+    "image": "Coursera_02",
+    "category": "coursera",
+    "links": {
+      "view": "https://coursera.org/verify/professional-cert/PJJHFX7ERUEW"
+    }
+  },
+  {
+    "name": "Google Cloud - Coursera",
+    "desc": "Machine Learning with TensorFlow on Google Cloud Platform",
+    "image": "Coursera_03",
+    "category": "coursera",
+    "links": {
+      "view": "https://coursera.org/verify/specialization/7P4GQCT6PH6G"
+    }
+  },
+  {
+    "name": "Google Cloud - Coursera",
+    "desc": "Advanced Machine Learning with TensorFlow on Google Cloud Platform",
+    "image": "Coursera_04",
+    "category": "coursera",
+    "links": {
+      "view": "https://coursera.org/verify/specialization/E6MWELZB23U2"
+    }
+  },
+  {
+    "name": "Google Cloud - Coursera",
+    "desc": "Data Engineering, Big Data, and Machine Learning on GCP",
+    "image": "Coursera_05",
+    "category": "coursera",
+    "links": {
+      "view": "https://coursera.org/verify/specialization/78ZVUEHAU5H5"
+    }
+  },
+  {
+    "name": "DeepLearning.AI - Coursera",
+    "desc": "Deep Learning",
+    "image": "Coursera_06",
+    "category": "coursera",
+    "links": {
+      "view": "https://coursera.org/verify/specialization/QVRRAVTN2JEV"
+    }
+  },
+  {
+    "name": "DeepLearning.AI - Coursera",
+    "desc": "DeepLearning.AI TensorFlow Developer",
+    "image": "Coursera_07",
+    "category": "coursera",
+    "links": {
+      "view": "https://coursera.org/verify/professional-cert/298C3LEJKJJQ"
+    }
+  },
+  {
+    "name": "DeepLearning.AI - Coursera",
+    "desc": "Natural Language Processing",
+    "image": "Coursera_08",
+    "category": "coursera",
+    "links": {
+      "view": "https://coursera.org/verify/specialization/7DP7EJJUGCK6"
+    }
+  },
+  {
+    "name": "AWS - Coursera",
+    "desc": "AWS Fundamentals",
+    "image": "Coursera_09",
+    "category": "coursera",
+    "links": {
+      "view": "https://coursera.org/verify/specialization/VT3G3J4BLHL8"
+    }
+  },
+  {
+    "name": "National Research University + UCSanDiego - Coursera",
+    "desc": "Data Structures and Algorithms",
+    "image": "Coursera_10",
+    "category": "coursera",
+    "links": {
+      "view": "https://coursera.org/verify/specialization/ZZ33VZW4PCYH"
+    }
+  },
+  {
+    "name": "National Research University + UCSanDiego - Coursera",
+    "desc": "Introduction to Discrete Mathematics for Computer Science",
+    "image": "Coursera_11",
+    "category": "coursera",
+    "links": {
+      "view": "https://coursera.org/verify/specialization/XFXTUKJJPT9S"
+    }
+  },
+  {
+    "name": "University of Michigan - Coursera",
+    "desc": "Statistics with Python",
+    "image": "Coursera_12",
+    "category": "coursera",
+    "links": {
+      "view": "https://coursera.org/verify/specialization/ZZAH9HLFXEW6"
+    }
+  },
+  {
+    "name": "University of Michigan - Coursera",
+    "desc": "Applied Data Science with Python",
+    "image": "Coursera_13",
+    "category": "coursera",
+    "links": {
+      "view": "https://coursera.org/verify/specialization/CDHTSAH9DL4R"
+    }
+  },
+  {
+    "name": "University of Michigan - Coursera",
+    "desc": "Web Design for Everybody: Basics of Web Development & Coding",
+    "image": "Coursera_14",
+    "category": "coursera",
+    "links": {
+      "view": "https://coursera.org/verify/specialization/6LXKVVXCEZN5"
+    }
+  },
+  {
+    "name": "Imperial College London - Coursera",
+    "desc": "Mathematics for Machine Learning",
+    "image": "Coursera_15",
+    "category": "coursera",
+    "links": {
+      "view": "https://coursera.org/verify/specialization/XDC7LMJ6D3MS"
+    }
+  },
+  {
+    "name": "UCI - Coursera",
+    "desc": "An Introduction to Programming the Internet of Things (IOT)",
+    "image": "Coursera_16",
+    "category": "coursera",
+    "links": {
+      "view": "https://coursera.org/verify/specialization/66VS33TYNU8U"
+    }
+  },
+  {
+    "name": "The Linux Foundation - Coursera",
+    "desc": "Open Source Software Development, Linux and Git",
+    "image": "Coursera_17",
+    "category": "coursera",
+    "links": {
+      "view": "https://coursera.org/verify/specialization/KB5C796RE85P"
+    }
+  },
+  {
+    "name": "University of London - Coursera",
+    "desc": "Virtual Reality",
+    "image": "Coursera_18",
+    "category": "coursera",
+    "links": {
+      "view": "https://coursera.org/verify/specialization/A8GYD9WLR7LU"
+    }
+  },
+  {
+    "name": "freeCodeCamp",
+    "desc": "Data Analysis with Python",
+    "image": "FreeCodeCamp_1",
+    "category": "fcc",
+    "links": {
+      "view": "https://www.freecodecamp.org/certification/akashsingh3031/data-analysis-with-python-v7"
+    }
+  },
+  {
+    "name": "freeCodeCamp",
+    "desc": "Data Visualization",
+    "image": "FreeCodeCamp_2",
+    "category": "fcc",
+    "links": {
+      "view": "https://www.freecodecamp.org/certification/akashsingh3031/data-visualization"
+    }
+  },
+  {
+    "name": "freeCodeCamp",
+    "desc": "Machine Learning with Python",
+    "image": "FreeCodeCamp_3",
+    "category": "fcc",
+    "links": {
+      "view": "https://www.freecodecamp.org/certification/akashsingh3031/machine-learning-with-python-v7"
+    }
+  },
+  {
+    "name": "freeCodeCamp",
+    "desc": "Scientific Computing with Python",
+    "image": "FreeCodeCamp_4",
+    "category": "fcc",
+    "links": {
+      "view": "https://www.freecodecamp.org/certification/akashsingh3031/scientific-computing-with-python-v7"
+    }
+  },
+  {
+    "name": "freeCodeCamp",
+    "desc": "JavaScript Algorithms and Data Structures",
+    "image": "FreeCodeCamp_5",
+    "category": "fcc",
+    "links": {
+      "view": "https://www.freecodecamp.org/certification/akashsingh3031/javaScript-algorithms-and-data-structures"
+    }
+  },
+  {
+    "name": "GeeksforGeeks",
+    "desc": "Get Ahead with Front-end Developmen",
+    "image": "GFG",
+    "category": "gfg",
+    "links": {
+      "view": "https://media.geeksforgeeks.org/courses/certificates/54b71b97b400a802992518471fdae147.pdf"
+    }
+  },
+  {
+    "name": "HackerRank",
+    "desc": "Python (Basic)",
+    "image": "HackerRank_1",
+    "category": "hr",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "HackerRank",
+    "desc": "Java (Basic)",
+    "image": "HackerRank_2",
+    "category": "hr",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "HackerRank",
+    "desc": "Problem Solving (Basic)",
+    "image": "HackerRank_3",
+    "category": "hr",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "HackerRank",
+    "desc": "Problem Solving (Intermediate)",
+    "image": "HackerRank_4",
+    "category": "hr",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "HackerRank",
+    "desc": "SQL (Basic)",
+    "image": "HackerRank_5",
+    "category": "hr",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "HackerRank",
+    "desc": "SQL (Intermediate)",
+    "image": "HackerRank_6",
+    "category": "hr",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "Jovian",
+    "desc": "Deep Learning with Pytorch - Zero to GANs",
+    "image": "Jovian_1",
+    "category": "jovian",
+    "links": {
+      "view": "https://jovian.ml/verify/MFQWCNJYGY"
+    }
+  },
+  {
+    "name": "Jovian",
+    "desc": "Data Analysis with Python - Zero to Pandas",
+    "image": "Jovian_2",
+    "category": "jovian",
+    "links": {
+      "view": "https://jovian.ai/certificate/MFQTGNZXGM"
+    }
+  },
+  {
+    "name": "Kaggle",
+    "desc": "Python",
+    "image": "Kaggle_1",
+    "category": "kaggle",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "Kaggle",
+    "desc": "Intermediate Machine Learning",
+    "image": "Kaggle_2",
+    "category": "kaggle",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "One Month",
+    "desc": "Learn HTML",
+    "image": "OneMonth_1",
+    "category": "one",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "One Month",
+    "desc": "Learn Responsive Design",
+    "image": "OneMonth_2",
+    "category": "one",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "One Month",
+    "desc": "Learn JavaScript",
+    "image": "OneMonth_3",
+    "category": "one",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "One Month",
+    "desc": "Learn jQuery",
+    "image": "OneMonth_4",
+    "category": "one",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "One Month",
+    "desc": "Learn SQL",
+    "image": "OneMonth_5",
+    "category": "one",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "One Month",
+    "desc": "Learn WordPress",
+    "image": "OneMonth_6",
+    "category": "one",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "TechSim+",
+    "desc": "Image Processing and Face Detection using ML",
+    "image": "TechSim_1",
+    "category": "ti",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "TechSim+",
+    "desc": "Master in Python - Django & API Development",
+    "image": "TechSim_2",
+    "category": "ti",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "The Spark Foundation",
+    "desc": "Computer Vision & IoT",
+    "image": "TSF_1",
+    "category": "ti",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "The Spark Foundation",
+    "desc": "Certificate of Completion",
+    "image": "TSF_2",
+    "category": "ti",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "Tap Academy",
+    "desc": "Java & Python Fundamentals",
+    "image": "Tap_Academy",
+    "category": "ti",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "KodNest",
+    "desc": "Java Basics and Java Programming (Internship)",
+    "image": "KodNest",
+    "category": "ti",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "Octafest'21",
+    "desc": "Participating in Octafest'21 as a Mentor",
+    "image": "Octafest_21",
+    "category": "ti",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "Nvidia",
+    "desc": "GETTING STARTED WITH AI ON JETSON NANO",
+    "image": "NVIDIA",
+    "category": "ti",
+    "links": {
+      "view": "https://courses.nvidia.com/certificates/681617e5dbbd4208ba9eb7b465088249"
+    }
+  },
+  {
+    "name": "TEQIP-3",
+    "desc": "",
+    "image": "TEQIP-3",
+    "category": "ti",
+    "links": {
+      "view": "#"
+    }
+  }
+]

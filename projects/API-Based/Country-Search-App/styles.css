@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 75%;
+}
+body{
+    background: linear-gradient(to right, #8ade4f, #33eecf);
+    font-family: 'Poppins', sans-serif;
+    color: #000;
+}
+h1{
+    text-align: center;
+}
+
+.result {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  cursor: pointer;
+}
+
+/* back button */
+.backbtn {
+  position: absolute;
+  font-size: 3rem;
+  float: left;
+  cursor: pointer;
+  margin-top: 2rem;
+  margin-left: 13rem;
+  color:rgb(255, 255, 255);
+}
+.backbtn a{
+  text-decoration: none;
+  color: inherit;  
+}

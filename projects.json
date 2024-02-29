@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Age Calculator",
+    "desc": "Age Calculator is a simple app that calculates your age based on the year you were born.",
+    "image": "Age_Calculator",
+    "category": "web",
+    "links": {
+      "view": "https://akashsingh3031.github.io/Age-Calculator/",
+      "code": "https://github.com/AkashSingh3031/Age-Calculator"
+    }
+  },
+  {
+    "name": "Calculator with Voice Recognition",
+    "desc": "Calculator with Voice Recognition is a simple app that can perform basic arithmetic operations.",
+    "image": "Calculator_with_Voice_Recognition",
+    "category": "web",
+    "links": {
+      "view": "https://akashsingh3031.github.io/Calculator-with-Voice-Recognition/",
+      "code": "https://github.com/AkashSingh3031/Calculator-with-Voice-Recognition"
+    }
+  },
+  {
+    "name": "Color Flipper",
+    "desc": "Color Flipper is a simple app that can change the background color of the page.",
+    "image": "Color_Flipper",
+    "category": "web",
+    "links": {
+      "view": "https://akashsingh3031.github.io/Color-Flipper/",
+      "code": "https://github.com/AkashSingh3031/Color-Flipper"
+    }
+  },
+  {
+    "name": "Countdown Timer",
+    "desc": "Countdown Timer is a simple app that can count down from a given time.",
+    "image": "Countdown_Timer",
+    "category": "web",
+    "links": {
+      "view": "https://akashsingh3031.github.io/Countdown-Timer/",
+      "code": "https://github.com/AkashSingh3031/Countdown-Timer"
+    }
+  },
+  {
+    "name": "CSS Variables with JS",
+    "desc": "CSS Variables with JS is a simple app that can change radius of image, blur effect on image and border color of image.",
+    "image": "CSS_Variables_with_JS",
+    "category": "web",
+    "links": {
+      "view": "https://akashsingh3031.github.io/CSS-Variables-with-JS/",
+      "code": "https://github.com/AkashSingh3031/CSS-Variables-with-JS"
+    }
+  },
+  {
+    "name": "Web Drum Kit",
+    "desc": "Web Drum Kit is a simple app that can play a drum sound when a key is pressed.",
+    "image": "Web_Drum_Kit",
+    "category": "web",
+    "links": {
+      "view": "https://akashsingh3031.github.io/Web-Drum-Kit/",
+      "code": "https://github.com/AkashSingh3031/Web-Drum-Kit"
+    }
+  }
+]

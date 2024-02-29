@@ -1,0 +1,12 @@
+[
+  {
+    "name": "HTML",
+    "desc": "Full HTML 5 web note",
+    "image": "html",
+    "category": "web",
+    "links": {
+      "view": "./web_development/",
+      "code": "#"
+    }
+  }
+]
